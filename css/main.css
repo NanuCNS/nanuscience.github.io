@@ -1,4 +1,5 @@
- box-sizing: border-box; }
+* {
+  box-sizing: border-box; }
 
 body {
   padding: 0;
@@ -53,10 +54,10 @@ a {
   text-align: center;
   background-color: #159957;
   background-image: linear-gradient(120deg, #45e091, #159957); }
-  @media screen and (min-width: 100em) {
+  @media screen and (min-width: 64em) {
     .page-header {
       padding: 5rem 6rem; } }
-  @media screen and (min-width: 42em) and (max-width: 100em) {
+  @media screen and (min-width: 42em) and (max-width: 64em) {
     .page-header {
       padding: 3rem 4rem; } }
   @media screen and (max-width: 42em) {
@@ -223,5 +224,3 @@ a {
   display: block;
   font-weight: bold; }
 
-.site-footer-credits {
-  color: #819198; }
