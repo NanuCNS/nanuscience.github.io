@@ -66,7 +66,7 @@ a {
     .page-header {
       padding: 2rem 1rem; } } 
 
-main-content :first-child {
+.main-content :first-child {
   margin-top: 0; }
 @media screen and (min-width: 64em) {
   .main-content {
