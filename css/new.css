@@ -3,7 +3,7 @@
         
 .page-header {
   margin-top: 0;
-  height: 300px;      
+  height: 280px;      
   color: #fff;
   text-align: center;
   background-color: #159957;
@@ -12,7 +12,7 @@
     background-position: center top;}
  
 .intro-header {
-    height: 500px;
+    height: 400px;
     width: 2000; 
     padding-top: 250px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
