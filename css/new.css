@@ -17,7 +17,7 @@
     padding-top: 250px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
     text-align: center;
-    color: #fff;
+    color: #ffffff;
     background: url("http://i.imgur.com/VjG5ItW.jpg") no-repeat center;
     background-color: #159957;
     background-size: auto;
@@ -29,7 +29,8 @@
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
     text-align: center;
-    color: #fff;
-    background-color: #159957;
+    color: #ffffff;
+    background: url("#") no-repeat center;
+    background-color: #009900;
     background-size: auto;
 }
