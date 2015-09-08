@@ -31,7 +31,7 @@
     margin-left: 1rem; }
  
 .intro-header {
-    height: 550px;
+    height: 500px;
     width: 2000; 
     padding-top: 250px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
