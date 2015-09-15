@@ -48,10 +48,9 @@
     text-align: center;
     color: #ffffff;
     background: url("#") no-repeat center;
-    
-    background-size: auto;
-    background-image: linear-gradient(180deg, #159957, #ffffff);
-    
+    background-color: #159957;
+    background-image: linear-gradient(90deg, #45e091, #159957); 
+    background-size: auto; 
 }
 
 .intro-header-two {
